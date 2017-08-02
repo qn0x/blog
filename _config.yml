@@ -1,22 +1,22 @@
 # Site Info
-title:              "The Plain"
-description:        "The Plain is a minimalist Jekyll theme, that's it. Can't say anymore..."
-google_verify:      epFgX0s_0RM3CdjwFcsewfXzPov2g8s9ZBOLyaIUH-o # Put your Google Verification here
-google_analytics:   UA-XXXXXXX-X # Put your Google Analytics code
+title:              "Janine's Blog"
+description:        "A blog about student life, programming and alternative music."
+#google_verify:      epFgX0s_0RM3CdjwFcsewfXzPov2g8s9ZBOLyaIUH-o # Put your Google Verification here
+google_analytics:   UA-103947994-1 # Put your Google Analytics code
 
 # Author Info
-author_name:        "YOUR_NAME" # Your name here
-author_email:       hnrird@gmail.com # Your email here
-author_gravatar:    2b38b1b0e7e08b69379bd61582adf0c8 # Your Gravatar md5 hash here for logo
-twitter_username:   HeiswayiNrird # Your Twitter username here
-github_username:    heiswayi # Your GitHub username here
+author_name:        "Janine Kostka" # Your name here
+author_email:       janine@qn0x.xyz # Your email here
+author_gravatar:    57f76a8cf3a77417851661cd9f0949da # Your Gravatar md5 hash here for logo
+twitter_username:   dschiini # Your Twitter username here
+github_username:    qn0x # Your GitHub username here
 
 # Site Settings
 baseurl:            "/blog" # Base URL must end WITHOUT a slash, default: ""
 url:                "http://qn0x.xyz"
 permalink:          /posts/:title # Post permalink
-timezone:           Asia/Kuala_Lumpur # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-mathjax:            true  # enables support for mathjax - set to false to disable
+timezone:           Europe/Berlin # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+mathjax:            false  # enables support for mathjax - set to false to disable
 
 # Site Build
 highlighter:        rouge
