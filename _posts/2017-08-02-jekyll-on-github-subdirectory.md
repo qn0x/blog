@@ -1,10 +1,11 @@
 ---
 title: Using Jekyll on Github, Served under a Subdirectory
 updated: 2017-08-02 18:30
+category: hosting
 ---
 
-For a long time I've wanted to write blogs but never got around to doing it. 
-About half a year ago I discovered Jekyll. 
+For a long time I've wanted to write blogs but never got around to doing it.
+About half a year ago I discovered Jekyll.
 Back then I struggled to get the configurations right, getting stuck with different dependencies, using different themes, but most of all, I wanted to host my blog on Github under a subdirectory with a custom URL.
 I've searched both Github's and Jekyll's documentations for any kind of hint but never found one.
 Now, after letting it stew for a while I found a very simple solution:  
