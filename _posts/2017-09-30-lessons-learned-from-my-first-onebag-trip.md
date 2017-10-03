@@ -1,7 +1,9 @@
 ---
 title: Lessons Learned From My First Onebag Trip
 updated: 2017-09-30 22:00
-category: onebag
+categories:
+    - onebag
+    - travel
 ---
 After reading about the practicality of traveling with only a fairly small backpack I decided to try it myself.  
 The trip was for my work/study program which requires me to travel to another city about once a month via train/public transport. During the trip I stay at a hotel (food not included) and attend university classes for most of the day. I am at the beginning of the third of the 3-year program so I already had a pretty solid packing list that just needed some small tweaks.  

@@ -13,10 +13,15 @@ github_username:    qn0x # Your GitHub username here
 
 # Site Settings
 baseurl:            "/blog" # Base URL must end WITHOUT a slash, default: ""
-url:                "http://qn0x.xyz"
+url:                "https://qn0x.xyz"
 permalink:          /posts/:title # Post permalink
 timezone:           Europe/Berlin # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 mathjax:            false  # enables support for mathjax - set to false to disable
+
+# Categories
+collections:
+category:
+output:             true
 
 # Site Build
 highlighter:        rouge
@@ -27,12 +32,12 @@ sass:
     style:          :compressed
 
 # Other Params
-include:            [ "robots.txt" ]
+include:            [ "robots.txt", "_categories" ]
 exclude:            [ "LICENSE", "README.md", "CNAME", "vendor", "Gemfile" ]
 gems:
   - jekyll-sitemap
 
-
+relative_permalinks: false
 
 defaults:
   -
@@ -50,3 +55,10 @@ defaults:
       type:         "posts"
     values:
       layout:       "post"
+
+  -
+    scope:
+      path:         ""
+      type:         "category"
+    values:
+      layout:       "category"
