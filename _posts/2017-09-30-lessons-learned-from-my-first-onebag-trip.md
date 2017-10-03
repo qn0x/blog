@@ -48,8 +48,8 @@ Everything I use daily that fit in the 1L zippable bag with a few extras: hand s
  * 1x Knife (for cake-cutting purposes)
  * 2x Medium-sized plastic bags (just in case I need them)
  * Small purse for coins and minimal wallet/card holder
- 
- ### Lessons Learned
+
+### Lessons Learned
  * Bring another pair of pants.
  * Instead of a bulky hoodie, rather bring an extra shirt.
  * Very practical when traveling by train or any kind of public transport with many changes.

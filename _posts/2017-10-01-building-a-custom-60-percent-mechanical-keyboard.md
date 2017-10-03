@@ -11,7 +11,7 @@ After gaining some more soldering experience by building my first DIY-keyboard, 
 
 My goals were pretty straight forward: I wanted to use the high profile aluminum case with a weight insert for which I entered a Group Buy in May (it also has underglow), my brass plate that I bought on impulse some time earlier this year, as well as a custom layout (split backspace, split right shift, split space bar, arrow cluster on the bottom right):  
 
-![custom keyboard layout](/assets/images/keyboard-layout.png)
+![custom keyboard layout]({{site.url}}/{{site.baseurl}}/assets/images/keyboard-layout.png)
 
 As you can see, the split space bar consists of three keys (6.25u space bar = 2.25u + 1.25u + 2.75u keys). The right shift is also split into three keys (2.75u shift = 1u + 1.75u keys) and moved to the left by 1u. The bottom right row is split into five instead of four keys to allow space for the navigation cluster (4 x 1.25u = 5 x 1u).  
 With the already very limited options because of the complex layout, it was impossible to find a PCB/plate/case-combo that satisfied all of my wishes. I've shelved some of the layout customizations for a later project and decided to stick with parts that I already had or were scheduled to ship to me in the near future.
