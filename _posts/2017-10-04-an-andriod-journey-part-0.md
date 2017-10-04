@@ -1,5 +1,5 @@
 ---
-title: An Android Journey (Part 0) - Introduction
+title: An Android Journey &minus; Part 0&colon; Introduction
 updated: 2017-10-04 20:00
 categories:
     - android
