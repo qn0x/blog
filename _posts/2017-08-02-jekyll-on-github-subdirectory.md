@@ -3,7 +3,6 @@ title: Using Jekyll on Github, Served under a Subdirectory
 updated: 2017-08-02 18:30
 categories:
     - hosting
-tag: hosting
 ---
 
 For a long time I've wanted to write blogs but never got around to doing it.
