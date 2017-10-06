@@ -29,7 +29,7 @@ With the already very limited options because of the complex layout, it was impo
    [Lube](https://zealpc.net/collections/switches/products/ghlube) for switches and stabilizers,  
    Cable: currently undecided whether to even get a new one,  
    Cotton wool from Q-Tips to lessen the rattling sound from the stabilizers,  
-   Sound dampening inlay inside the case cut out of a thick old [Roccat mouse mat](https://www.roccat.org/en-DE/Products/Gaming-Mousepads/Taito-Series/Taito/).
+   Sound dampening inlay inside the case cut out of a thick old [Roccat mouse mat](https://www.roccat.org/en-DE/Products/Gaming-Mousepads/Taito-Series/Taito/). This will be put in when the Sentraq case arrives.
 
 #### Other Considerations:
  * __Sentraq PCB__   
@@ -50,7 +50,7 @@ With the already very limited options because of the complex layout, it was impo
  They seem to be compatible with the b.face PCB but I'm not planning on replacing the switches anytime soon. I also don't know how tight they fit the switches and because I may travel with the board, I didn't want to risk them being loose and the switches falling out.
 
 ### Tools
- * small flat head screwdriver that allows opening of the switches
+ * small flat head screwdriver that allows opening of the switches (alternatively a switch opener)
  * pliers/scissors for removing the excess plastic from the PCB-mountable switches, cutting the sound dampening material and opening all the packages :)
  * small philipp's head screwdriver for the stabilizers and case
  * paper clip for testing of the PCB
@@ -58,7 +58,34 @@ With the already very limited options because of the complex layout, it was impo
  * soldering equipment (soldering iron, solder, just in case: desoldering pump)
 
 ## The Build
-to be expanded
+Almost all of the parts are already here! I already opened the switches so I could solder them without the switch tops.  
+
+![Parts](https://i.imgur.com/ZbVpj0e.jpg)  
+
+Checking the PCB with a bent paper clip. I used [Aqua Key Test]((https://geekhack.org/index.php?topic=34670) from Geekhack but this site http://www.keyboardtester.com/ works, too.  
+
+![Checking PCB](https://i.imgur.com/P3HYQQY.jpg)  
+
+Assembling the stabilizers. The description said that they are pre-clipped so no need for any mods.  
+
+![Assembling stabilizers](https://i.imgur.com/JZXb7Dp.jpg)  
+
+Very funny.  
+
+![Haha](https://i.imgur.com/ewZPlK6.jpg)  
+
+Screwed-in stabilizer  
+
+![stabilizer](https://i.imgur.com/S4t9OUl.jpg)  
+
+I only soldered the switch housings because the tops hadn't arrived. Started with the switches in the corners, then the edges and worked my way in.  
+
+![Soldering](https://i.imgur.com/xYoJeKo.jpg)  
+
+Another test to make sure there are no cold solder points before screwing in PCB + plate. Used the left CTRL to access the bootloader. Seems good.  
+
+![PCB Test](https://i.imgur.com/dxh6OGr.jpg)  
+
 
 ## Lessons Learned
  1. Group Buy delays are unpredictable.
