@@ -62,7 +62,7 @@ Almost all of the parts are already here! I already opened the switches so I cou
 
 ![Parts](https://i.imgur.com/ZbVpj0e.jpg)  
 
-Checking the PCB with a bent paper clip. I used [Aqua Key Test]((https://geekhack.org/index.php?topic=34670) from Geekhack but this site http://www.keyboardtester.com/ works, too.  
+Checking the PCB with a bent paper clip. I used [Aqua Key Test](https://geekhack.org/index.php?topic=34670) from Geekhack but this [site](http://www.keyboardtester.com/) works, too.  
 
 ![Checking PCB](https://i.imgur.com/P3HYQQY.jpg)  
 
