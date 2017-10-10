@@ -86,6 +86,13 @@ Another test to make sure there are no cold solder points before screwing in PCB
 
 ![PCB Test](https://i.imgur.com/dxh6OGr.jpg)  
 
+Fitted on the keycaps after deciding to hold off on the dyed switch tops (I got the wrong order and had to return it).
+
+![Fitted keycaps](https://i.imgur.com/4g1zUO3.jpg)  
+
+![Brass plate shot](https://i.imgur.com/V8BB7Yd.jpg)  
+
+
 
 ## Lessons Learned
  1. Group Buy delays are unpredictable.
