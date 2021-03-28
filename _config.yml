@@ -1,8 +1,8 @@
 # Site Info
 title:              "Janine's Blog"
-description:        "A blog about student life, programming and alternative music."
+description:        "A blog about infosec, mechanical keyboards and bicycles."
 #google_verify:      epFgX0s_0RM3CdjwFcsewfXzPov2g8s9ZBOLyaIUH-o # Put your Google Verification here
-google_analytics:   UA-103947994-1 # Put your Google Analytics code
+#google_analytics:   UA-103947994-1 # Put your Google Analytics code
 
 # Author Info
 author_name:        "Janine Kostka" # Your name here
